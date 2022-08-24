@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Seo%20Ji%20Woo&fontSize=70&animation=twinkling)
 
-<br/>
-
 <h3 align="center">🛠 My Tech Stack 🛠</h2>
 
 <p align="center">

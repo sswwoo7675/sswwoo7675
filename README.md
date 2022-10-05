@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
+<h3 align="center">💾 포트폴리오(notion) 💾</h2>
+
+<p align="center">
+  <a href="https://flowery-delivery-5f0.notion.site/Seo-JiWoo-027c39a6baa5456cb2a1ac2b949caddd">바로가기</a>
+</p>
+
 <div align="center" style="text-align:center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sswwoo7675)](https://github.com/sswwoo7675/github-readme-stats)

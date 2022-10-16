@@ -24,9 +24,3 @@
   https://flowery-delivery-5f0.notion.site/c38b96f93b8c48ceab63c1aa955834a5?v=6fe8b66f610442b69fd1f3e92483e118
 </p>
 
-<div align="center" style="text-align:center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sswwoo7675)](https://github.com/sswwoo7675/github-readme-stats)
-
-</div>
-

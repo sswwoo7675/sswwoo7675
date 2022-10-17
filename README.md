@@ -24,3 +24,6 @@
   https://flowery-delivery-5f0.notion.site/c38b96f93b8c48ceab63c1aa955834a5?v=6fe8b66f610442b69fd1f3e92483e118
 </p>
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsswwoo7675%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
